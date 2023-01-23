@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rzmobiledev
-- 👀 I’m interested in Android Java and Django
+- 👀 I’m interested in Python and Python frameworks such as Django, Flask and FastApi
 - 💞️ I’m looking to collaborate with you
 - 📫 and you can reach me on email rzmobiledev@gmail.com
