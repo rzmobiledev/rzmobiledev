@@ -1,4 +1,18 @@
-- 👋 Hi, I’m @rzmobiledev
-- 👀 I’m interested in Python and Python frameworks such as Django, Flask and FastApi
-- 💞️ I’m looking to collaborate with you
-- 📫 and you can reach me on email rzmobiledev@gmail.com
+
+## 🚀 About Me
+I am python developer with main focus on Backend developer for over 2 years. Currently i am working on some django projects for local clients.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safrizal-safrizal-541157160/)
+[![repo](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/rzmobiledev?tab=repositories)
+[![repo](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rzmobiledev@gmail.com)
+
+## 🛠 Skills
+```HTML, CSS, Python, Django, Django-Rest, Flask, Docker, Kubernetes, Nginx```
+
+
+## Authors
+
+- [@rizalsafril](https://www.github.com/rzmobiledev)
+
