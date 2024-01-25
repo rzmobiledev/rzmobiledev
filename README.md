@@ -1,6 +1,7 @@
 
 ## 🚀 About Me
-I am python developer with main focus on Backend developer for over 2 years. Currently i am working on some django projects for local clients.
+I am python developer with main focus on Backend developer for over 2 years. Currently i am working at a tech startup company based in Australia.
+Feel free to get in touch and drop your email for collaboration.
 
 
 ## 🔗 Links
