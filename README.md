@@ -9,7 +9,7 @@ I am python developer with main focus on Backend developer for over 2 years. Cur
 [![repo](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rzmobiledev@gmail.com)
 
 ## 🛠 Skills
-```HTML, CSS, Python, Django, Django-Rest, Flask, Docker, Kubernetes, Nginx, Pandas, Selenium, Git```
+```HTML, CSS, Python, Django, Django-Rest, Flask, Docker, Kubernetes, Nginx, Pandas, Selenium, Git, Javascript, Typescript, Nodejs```
 
 
 ## Authors
