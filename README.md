@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am python developer with main focus on Backend developer for over 2 years. Currently i am working at a tech startup company based in Australia.
+I am Typescript and python developer with main focus on Backend for over 2 years. Currently i am working as freelancer and engage myself with personal products.
 Feel free to get in touch and drop your email for collaboration.
 
 
