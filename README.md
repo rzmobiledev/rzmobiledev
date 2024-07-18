@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am Typescript and python developer with main focus on Backend for over 2 years. Currently i am working as freelancer and engage myself with personal products.
+I am a Typescript and python developer with main focus on Backend for over 2 years. Currently i am working as freelancer and engage myself with personal products.
 Feel free to get in touch and drop your email for collaboration.
 
 
