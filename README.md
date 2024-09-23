@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am a Typescript and python developer with main focus on Backend for over 2 years. Currently i am working as freelancer and engage myself with personal products.
+I am a python developer with main focus on Backend for over 2 years. Currently i am switching my career as a data analyst and data science.
 Feel free to get in touch and drop your email for collaboration.
 
 
@@ -10,7 +10,7 @@ Feel free to get in touch and drop your email for collaboration.
 [![repo](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rzmobiledev@gmail.com)
 
 ## 🛠 Skills
-```HTML, CSS, Python, Django, Django-Rest, Flask, Docker, Kubernetes, Nginx, Pandas, Selenium, Git, Javascript, Typescript, Nodejs```
+```HTML, CSS, Python, Pandas, BeautifulSoup, Selenium, Django, Django-Rest, Flask, Docker, Kubernetes, Nginx, Pandas, Selenium, Git, Javascript, Typescript, Nodejs```
 
 
 ## Authors
