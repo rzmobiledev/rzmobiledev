@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am a Javascript developer with main focus on Backend for over 5 years. Currently i am switching my career as a MERN Stack and Full Stack Developer.
+I am a Javascript and python developer with main focus on Backend for over 5 years. Currently i am switching my career as a MERN Stack and Full Stack Developer.
 Feel free to get in touch and drop your email for collaboration.
 
 
